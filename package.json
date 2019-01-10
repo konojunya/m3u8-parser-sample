@@ -1,0 +1,11 @@
+{
+  "name": "m3u8-parser-sample",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "ssh://git@github.com/konojunya/m3u8-parser-sample.git",
+  "author": "konojunya <junya03dance@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "m3u8-parser": "^4.2.0"
+  }
+}
